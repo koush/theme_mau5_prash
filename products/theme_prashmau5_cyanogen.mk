@@ -8,7 +8,7 @@ $(call inherit-product, vendor/cyanogen/products/cyanogen_passion.mk)
 # This will be the same name as the cyanogen_theme_defaulttheme.mk file
 # located in the same directory
 
-PRODUCT_NAME := theme_default_cyanogen
+PRODUCT_NAME := theme_prashmau5_cyanogen
 
 # Here you need to rename defaulttheme to match the folder name as well
 PRODUCT_PACKAGE_OVERLAYS := vendor/theme_default_cyanogen/overlay
